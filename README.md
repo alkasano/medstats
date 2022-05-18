@@ -3,4 +3,4 @@ Codes developed while a research intern at the Registry of Acute Coronary Syndro
 
 ### Functions for logistic regression visualization:
 - plot.roc -- plots a ROC curve to assess the discriminatory performance of a glm.
-- plot.cal -- plots a calibration plot to assess the agreement between predicted and observed probabilities.
+- plot.cal -- plots a calibration plot to assess the agreement between predicted and observed outcome probabilities.
